@@ -4,7 +4,7 @@ MiniJorunal3.0
 by Joe Wileman
 09-16-16
 Assignment1&4 CAP6105:Pen-Based User Interfaces
-YouTube Demo: https://www.youtube.com/watch?v=qm3FtJ1rVpU&index=3&list=PLobv4epDs1Tyu-UTAMkzzNyLoT9-Fj7Z_&
+YouTube Demo: https://www.youtube.com/watch?v=qm3FtJ1rVpU&index=3&list=PLobv4epDs1Tyu-UTAMkzzNyLoT9-Fj7Z_
 
 In this assignemnt I created a miniature journal. In the journal the user can write with a pen or highlighter,
 erase by point and stroke, create symbols, load images as backgrounds, save ink strokes, laod ink strokes clear
