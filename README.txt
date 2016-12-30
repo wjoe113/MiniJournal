@@ -3,10 +3,12 @@ README.txt
 MiniJorunal3.0
 by Joe Wileman
 09-16-16
-Assignment1 CAP6105:Pen-Based User Interfaces
+Assignment1&4 CAP6105:Pen-Based User Interfaces
+YouTube Demo: https://www.youtube.com/watch?v=qm3FtJ1rVpU&index=3&list=PLobv4epDs1Tyu-UTAMkzzNyLoT9-Fj7Z_&
 
 In this assignemnt I created a miniature journal. In the journal the user can write with a pen or highlighter,
-erase by point and stroke, create symbols, load images as backgrounds, and save, clear, and load their work.
+erase by point and stroke, create symbols, load images as backgrounds, save ink strokes, laod ink strokes clear
+the canvas, recognize text, and compute equations using the calculator.
 
 Basic Functionality:
 - Press the "load", "save", or "clear" buttons to load, save, or clear your work. The user's notes are saved
@@ -32,7 +34,11 @@ erased, but not erased with (intentional).
 Good handwritting is not required but helpful.
 
 Symbol Collection Functionailty:
-- Write anything and tap on the inkCanvas to recognize what you drew. Also, if you include an "=" at the end of an
-equation (including trig) it will solve the equation. No paretheses.
+- Write anything and tap on the inkCanvas to recognize what you drew.
 
-Everything works!
+Calculator:
+- If you include an equal sign ("=") at the end of an equation (including trig equations) and tap the canvas it will
+solve the equation. Do not include parentheses, the calculator will automatically perform the correct order of
+operations. If you include text in the equation (not including trig functions) it will tell you to retry writing the equation.
+
+Thanks for reading!
